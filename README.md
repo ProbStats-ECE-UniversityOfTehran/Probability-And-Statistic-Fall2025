@@ -5,11 +5,6 @@
 - [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 - [Course Website & Videos](https://openbookshelf.github.io/ProbStat/#/)
 
-# Course Schedule
-
-بله، کاملا حق با شماست. استفاده از "V" به تنهایی گویا نیست. برای واضح‌تر شدن، جدول را به شکلی تغییر می‌دهم که نشان‌دهنده دنباله‌دار بودن ویدیوها برای هر جلسه باشد.
-
-در ادامه نسخه اصلاح‌شده جدول آمده است:
 
 # Course Schedule
 
