@@ -2,7 +2,6 @@
 
 - [Description](Description.pdf)
 - [Calendar](https://docs.google.com/spreadsheets/d/1HTe-gUrYX_R5s-8-WjU9oW4u_WmjmP_KBd7EY0c4CjM/edit?usp=sharing)
-- [Guidelines](Guidelines.pdf)
 - [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 - [Course Website & Videos](https://openbookshelf.github.io/ProbStat/#/)
 
