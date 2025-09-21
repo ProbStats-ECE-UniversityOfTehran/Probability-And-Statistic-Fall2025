@@ -4,6 +4,7 @@
 - [Calendar](https://docs.google.com/spreadsheets/d/1HTe-gUrYX_R5s-8-WjU9oW4u_WmjmP_KBd7EY0c4CjM/edit?usp=sharing)
 - [Prof. Bahrak's Youtube Channel](https://www.youtube.com/@BahrakCourses)
 - [Course Website & Videos](https://openbookshelf.github.io/ProbStat/#/)
+- [Resources](https://github.com/ProbStats-ECE-UniversityOfTehran/Probability-And-Statistic-Fall2025/tree/main/Resources)
 
 
 # Course Schedule
